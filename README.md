@@ -21,7 +21,7 @@
 
 # 翻譯和標點符號準則
 
-符號一律使用全形符號，請參考 http://www.edu.tw/files/site_content/M0001/hau/haushou.htm，
+符號一律使用全形符號，請參考[標點符號手冊](http://www.edu.tw/files/site_content/M0001/hau/haushou.htm)，
 打不出來的符號，就直接複製此網頁上的符號，不要找相似的貼，有時樣子一樣但編碼不一樣，
 套上字型的呈現到時會不同。
 
@@ -34,3 +34,6 @@
 * 遇到特殊變數(遊戲中會取代成圖案之類的)，變數前後要留空白。
 * 遇到 1 of 5 這種顯示數量的地方，可以用 1/5，/是英文半形斜線，不需要用全形的。
 * 其它待補充。
+
+# 統一名詞
+在本專案的 [wiki](https://github.com/codebayin/Armello.zh_TW/wiki) 上有紀錄目前統一的名詞，歡迎補充與討論修正。
