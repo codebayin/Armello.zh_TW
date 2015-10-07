@@ -1970,7 +1970,7 @@ HERO_SHELF_SPIRIT_STONES_REQUIRED_DESC,"{0} more Spirit Stones required to banis
 HERO_SHELF_SPIRIT_STONES_SPIRITWALKER_DESC,"Ready to use Spirit Stones to banish the King!"
 HERO_SPIRIT,"Spirit"
 HERO_WITS,"Wits"
-HERO_WOLF_01_DESCRIPTION,"The Winter Wolf"
+HERO_WOLF_01_DESCRIPTION,"冬狼"
 HERO_WOLF_01_NAME,"Thane"
 HERO_WOLF_01_TOOLTIPBODYTEXT,"Unmatched in armed combat, Thane is a natural predator."
 HERO_WOLF_02_DESCRIPTION,"The Howling Arrow"
